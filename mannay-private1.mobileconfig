@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>这是一个用来测试的同意信息</string>
+	</dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadCertificateFileName</key>
+			<string>ios_distribution_mannay_private.cer</string>
+			<key>PayloadContent</key>
+			<data>
+			MIIFjjCCBHagAwIBAgIIKXJgJxyA74AwDQYJKoZIhvcNAQEFBQAw
+			gZYxCzAJBgNVBAYTAlVTMRMwEQYDVQQKDApBcHBsZSBJbmMuMSww
+			KgYDVQQLDCNBcHBsZSBXb3JsZHdpZGUgRGV2ZWxvcGVyIFJlbGF0
+			aW9uczFEMEIGA1UEAww7QXBwbGUgV29ybGR3aWRlIERldmVsb3Bl
+			ciBSZWxhdGlvbnMgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkwHhcN
+			MTkwMjI2MDM0NTI5WhcNMjIwMjI1MDM0NTI5WjCBjzEaMBgGCgmS
+			JomT8ixkAQEMCllDNDJQSDQ5NFMxMTAvBgNVBAMMKGlQaG9uZSBE
+			aXN0cmlidXRpb246IEVESUxQUk9HRVRUSSBzLnIuby4xEzARBgNV
+			BAsMCllDNDJQSDQ5NFMxHDAaBgNVBAoME0VESUxQUk9HRVRUSSBz
+			LnIuby4xCzAJBgNVBAYTAkNaMIIBIjANBgkqhkiG9w0BAQEFAAOC
+			AQ8AMIIBCgKCAQEAy4AYIWJUT3VKisZ3eMkAnPj0y67T8HH9hftk
+			zObexqOqaqZtw123DogDf3Q2/QS2iATQpfdeRZnuMusXniQns8b1
+			WAURB10VQrPOZjvRhN5NeIXjscpYJtvkiIxzeopJrUQR0ZryGWcQ
+			00rm1Jrj7P0dLkq80lhonOVIPdTNu16KQ93dHuIaINZY3zAAxdd2
+			r8+ooFUpxiXhRD+efHzko0pwurjpoXzSeETdSODiuwsF+QSukajz
+			+OtcKdXcyW7UIYKuADYLuVCzLpuQX1YO5rHYfG6+FHt7W4O8t2y2
+			FtVS4PFO4CfMDOPRu1JjpOVHzjSkPJqRNz2YBh4hZeCJfwIDAQAB
+			o4IB4zCCAd8wDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSIJxcJ
+			qbYYYIvs67r2R1nFUlSjtzA/BggrBgEFBQcBAQQzMDEwLwYIKwYB
+			BQUHMAGGI2h0dHA6Ly9vY3NwLmFwcGxlLmNvbS9vY3NwMDItd3dk
+			cjAxMIIBDwYDVR0gBIIBBjCCAQIwgf8GCSqGSIb3Y2QFATCB8TCB
+			wwYIKwYBBQUHAgIwgbYMgbNSZWxpYW5jZSBvbiB0aGlzIGNlcnRp
+			ZmljYXRlIGJ5IGFueSBwYXJ0eSBhc3N1bWVzIGFjY2VwdGFuY2Ug
+			b2YgdGhlIHRoZW4gYXBwbGljYWJsZSBzdGFuZGFyZCB0ZXJtcyBh
+			bmQgY29uZGl0aW9ucyBvZiB1c2UsIGNlcnRpZmljYXRlIHBvbGlj
+			eSBhbmQgY2VydGlmaWNhdGlvbiBwcmFjdGljZSBzdGF0ZW1lbnRz
+			LjApBggrBgEFBQcCARYdaHR0cDovL3d3dy5hcHBsZS5jb20vYXBw
+			bGVjYS8wFgYDVR0lAQH/BAwwCgYIKwYBBQUHAwMwHQYDVR0OBBYE
+			FCimBoBDSLT6Caik7ldqA8mJIp0eMA4GA1UdDwEB/wQEAwIHgDAT
+			BgoqhkiG92NkBgEEAQH/BAIFADANBgkqhkiG9w0BAQUFAAOCAQEA
+			w60uJdaNjW0Iv4gyex3jRq0e5dGMBO7GnOWK8DhubcP6b8EDkNiM
+			0szN9gnjj5JahpLh2es2zmpVkeY4kZvLcARH8gbHP9YBSmijJp8A
+			1kBmZPXOQBnE3UlpG1sfZoq4PnZvXb57vPEACGQpi6PHRi6Qy0JA
+			RjAmYSYYsvlgDU6QjtnFoi9RQLTO8quJ7YKd0+5rPWhcaMPi+YbG
+			c+lJSeGRuK2T8Ij9TO49rB3o+VO6IiiMmnERJWYS16lfeRKYOJ/R
+			+8ya43Uy8zPNPyuosxVqoBjgnNhZfOtF0UXemTb3WBq7d02PCrpY
+			Gv0oJHayGG1MYfXS9rWqlRurLdkSPA==
+			</data>
+			<key>PayloadDescription</key>
+			<string>添加 PKCS#1 格式的证书</string>
+			<key>PayloadDisplayName</key>
+			<string>iPhone Distribution: EDILPROGETTI s.r.o.</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.security.pkcs1.92C63A14-C64D-4674-AFDC-F224BC275C7C</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.pkcs1</string>
+			<key>PayloadUUID</key>
+			<string>92C63A14-C64D-4674-AFDC-F224BC275C7C</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>这是一个用来测试的简短描述</string>
+	<key>PayloadDisplayName</key>
+	<string>mannay-private</string>
+	<key>PayloadIdentifier</key>
+	<string>Mmini.5916B0F9-4C5C-4760-BD26-23DA501926B9</string>
+	<key>PayloadOrganization</key>
+	<string>tianyu</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>DD045DDF-B211-4BDE-8B7A-173E2B925559</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
